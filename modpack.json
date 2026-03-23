@@ -81,7 +81,8 @@
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
       "sha512": "13032e064c554fc8671573dadb07bc70e6ea2f68706c65c086c4feb1d2f664346a3414cbf9d1367b42b8d063a35e40f2f967ef9af31642e1f0093b852161fe91",
       "enabledByDefault": true,
-      "description": "Ottimizzazione rendering"
+      "description": "Ottimizzazione rendering",
+      "category": "Performance"
     },
     {
       "name": "Lithium",
@@ -89,7 +90,8 @@
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XQJtuOTA/lithium-fabric-0.15.3%2Bmc1.21.1.jar",
       "sha512": "8c576d519121b0c2521101d2209eccd85d560b097fcb847aa54c51cd0d3f3947676f01c8d99913f514487c8e0972a1cf5f3da0c9ef0ec9bacdf2baeb4eb7d1a7",
       "enabledByDefault": true,
-      "description": "Ottimizzazione server-side e tick"
+      "description": "Ottimizzazione server-side e tick",
+      "category": "Performance"
     },
     {
       "name": "ImmediatelyFast",
@@ -97,7 +99,8 @@
       "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/yHztKxR5/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
       "sha512": "7117aa1b27dd1d463707d4089aa52cc09619f32744bc33363b3515b705d9ce5039fd69190092d119552b73db30ad365dffc29f84f0af505d580cc5593d88e075",
       "enabledByDefault": true,
-      "description": "Ottimizzazione rendering immediata"
+      "description": "Ottimizzazione rendering immediata",
+      "category": "Performance"
     },
     {
       "name": "FerriteCore",
@@ -105,7 +108,8 @@
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
       "sha512": "3ad31620fac4ff44327dc7dedbe162b2d978f3f246dc16255a6e400ce9592a0d326fe36a626f3c1bf30a11f813093cbb4dcc107af039cff724d0cdf648541fdf",
       "enabledByDefault": true,
-      "description": "Riduzione uso memoria RAM"
+      "description": "Riduzione uso memoria RAM",
+      "category": "Performance"
     },
     {
       "name": "Entity Culling",
@@ -113,7 +117,8 @@
       "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/xcyXBGgI/entityculling-fabric-1.9.5-mc1.21.1.jar",
       "sha512": "2a980756192abb8f7841e61017d77b16824752d349348976ba890779a8f556b4a0edb7b392bc5a29b29975342b6b18d8cfde888ae670532ce2418e5943f2009c",
       "enabledByDefault": true,
-      "description": "Non renderizza entità fuori dalla visuale"
+      "description": "Non renderizza entità fuori dalla visuale",
+      "category": "Performance"
     },
     {
       "name": "Zoomify",
@@ -121,7 +126,8 @@
       "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
       "sha512": "ce8db36e77f089f091986b6e8bea1c33433bbcffc7a47fa18d04dea5ecd4910286943600a85b4773fdf4ed5405f52f3c0dc08fea8b1551d7725a26e1f6ef2879",
       "enabledByDefault": true,
-      "description": "Zoom personalizzabile"
+      "description": "Zoom personalizzabile",
+      "category": "Utility"
     },
     {
       "name": "Visuality",
@@ -129,7 +135,8 @@
       "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar",
       "sha512": "793f7164f9caf1b8e2b6b2f9f1327c40179b633217702bf79e16930cc5c548e44e6f0cac4628963fcc9e65cc9d63c4493678840242017c33be92a0e94c880f51",
       "enabledByDefault": true,
-      "description": "Particelle estetiche aggiuntive"
+      "description": "Particelle estetiche aggiuntive",
+      "category": "Qualità visiva"
     },
     {
       "name": "Skin Layers 3D",
@@ -137,7 +144,8 @@
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/TYPf51DB/skinlayers3d-fabric-1.10.2-mc1.21.1.jar",
       "sha512": "404cc478291b663b40b9153fe561012b2a987f4f6ed2639c13c81c5184922c5f664d9f71694b96c2a330b4f81aeb6bd4c5700975e41f42f83f445f03dfcfd9d7",
       "enabledByDefault": true,
-      "description": "Skin con layer 3D"
+      "description": "Skin con layer 3D",
+      "category": "Qualità visiva"
     },
     {
       "name": "Xaero's Minimap",
@@ -145,7 +153,8 @@
       "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/9kt7Yxig/xaerominimap-fabric-1.21.1-25.3.10.jar",
       "sha512": "2cabff39e66fdbe0b7ba514573bc743c40bc827d6edecbe59941cfb693f105340d11226fe06b5f5fff95fc8d63f42445d92d0f31eb34ffde540422271ceb823e",
       "enabledByDefault": true,
-      "description": "Minimappa in-game"
+      "description": "Minimappa in-game",
+      "category": "Mappe"
     },
     {
       "name": "Xaero's World Map",
@@ -153,7 +162,8 @@
       "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
       "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e",
       "enabledByDefault": true,
-      "description": "Mappa del mondo a schermo intero"
+      "description": "Mappa del mondo a schermo intero",
+      "category": "Mappe"
     },
     {
       "name": "Better Stats",
@@ -161,7 +171,8 @@
       "url": "https://cdn.modrinth.com/data/n6PXGAoM/versions/YDvjPyKn/betterstats-3.13.9%2Bfabric-1.21.jar",
       "sha512": "30b4088c73181077358ec8f5ea0da6021711e408c9022df8c163171f52d48d3dff125886ead03929cd553f9d18aa8da16cb599e26da3e6ff1fb2e6828ddbff62",
       "enabledByDefault": true,
-      "description": "Schermata statistiche migliorata"
+      "description": "Schermata statistiche migliorata",
+      "category": "Utility"
     },
     {
       "name": "Shulker Box Tooltip",
@@ -169,7 +180,8 @@
       "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/nGPvABlf/shulkerboxtooltip-fabric-5.1.8%2B1.21.1.jar",
       "sha512": "b0b79aae60a2f88ac88ceb7bf114f7e1ce7701586da6b1acbd9d6f4e1d11d71dcc68e20e5f5cf5840832eabcb614f710a621bbe806eee9effeb9d778e122f1a4",
       "enabledByDefault": true,
-      "description": "Anteprima contenuto shulker box"
+      "description": "Anteprima contenuto shulker box",
+      "category": "Utility"
     },
     {
       "name": "Appleskin",
@@ -177,7 +189,8 @@
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21-3.0.6.jar",
       "sha512": "accbb36b863bdeaaeb001f7552534f3bdf0f27556795cf8e813f9b32e7732450ec5133da5e0ec9b92dc22588c48ffb61577c375f596dc351f15c15ce6a6f4228",
       "enabledByDefault": true,
-      "description": "Mostra valori fame e saturazione del cibo"
+      "description": "Mostra valori fame e saturazione del cibo",
+      "category": "Utility"
     },
     {
       "name": "Tooltip Scroll",
@@ -185,7 +198,8 @@
       "url": "https://cdn.modrinth.com/data/wySVd6d8/versions/xIlfYF85/tooltip-scroll-1.5.1%2B1.21.1.jar",
       "sha512": "f28b2d838b38f437745a85e944609b06822b513755604cc1a09310bf0790c50b298caca00b7ba143ca5679c676324f18cba1bbbe6de3a73ff75d55790df4a30d",
       "enabledByDefault": true,
-      "description": "Permette di scrollare tooltip lunghi"
+      "description": "Permette di scrollare tooltip lunghi",
+      "category": "Utility"
     }
   ],
   "extraFiles": [
