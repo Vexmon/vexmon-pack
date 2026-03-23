@@ -40,7 +40,7 @@ def compute_sha512(filepath):
             h.update(chunk)
     return h.hexdigest()
 
-for manifest_name in ["modpack.json", "modpack-light.json"]:
+for manifest_name in ["modpack.json", "modpack-light.json", "modpack-pro.json"]:
     with open(manifest_name, "r", encoding="utf-8") as f:
         manifest = json.load(f)
 

@@ -1,0 +1,307 @@
+{
+  "modpackVersion": "1.0.5",
+  "mods": [
+    {
+      "name": "Cobblemon",
+      "filename": "Cobblemon-fabric-1.7.3+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar",
+      "sha512": "7b5376f5f48177db53790237b6fb25378806972b5d3b756151b4d8f2d3c27238d6b587b77da422bc1780bfd358b4702e74369fd82cef2a35301b4b68a2f13c2e"
+    },
+    {
+      "name": "Mega Showdown",
+      "filename": "mega_showdown-fabric-1.7.1+1.7.3+1.21.1-hotfix.jar",
+      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/ntjTnLjo/mega_showdown-fabric-1.7.1%2B1.7.3%2B1.21.1-hotfix.jar",
+      "sha512": "46d392bd4a506eefbda4dce87f4b284f4a6737597f13cbf1ae0dfbe5775514b25de10e0e2ee466066c00202f7ef7aace4a610e9a4707e1a7cf8a659c8e01050b"
+    },
+    {
+      "name": "Accessories",
+      "filename": "accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xlt4eWBe/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar",
+      "sha512": "0d8baf9e5c3828edcc22fc6e10774e9d7fb94616dae137be3eeb30bea8292ec0148dd2d41ae7753c82714f1d9f163189d07d0f78321f95943c0c048288130e71"
+    },
+    {
+      "name": "Fabric API",
+      "filename": "fabric-api-0.116.9+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yGAe1owa/fabric-api-0.116.9%2B1.21.1.jar",
+      "sha512": "e643876079b950aef9aad3eee8d27046305895e8d0f595f7f95010839adeaa25c55a6dc8624ccfba1201194d6598fcbc11f23a7a553ccefbb8c0ceacf388bb79"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "filename": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9%2Bkotlin.2.3.10.jar",
+      "sha512": "498672ee88cf703685026e74f82a85e30d980c62a1c8cc14744cb73add09a857db8d585b405e19f558ec490613642750eb00e09d8ef5a3c9578bc52b53568d51"
+    },
+    {
+      "name": "oωo lib",
+      "filename": "owo-lib-0.12.15.4+1.21.jar",
+      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar",
+      "sha512": "b9c79035c912ef043722f2a1f0bc0166e0ca047ea5237a86f23198dea487289e0a0f92a96e46bd683ffc39e4190b95450d13456b14f6280587635b51c9393a1b"
+    },
+    {
+      "name": "Architectury",
+      "filename": "architectury-13.0.8-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar",
+      "sha512": "7a24a0481732c5504b07347d64a2843c10c29e748018af8e5f5844e5ea2f4517433886231025d823f90eb0b0271d1fa9849c27e7b0c81476c73753f79f19302a"
+    },
+    {
+      "name": "Cloth Config",
+      "filename": "cloth-config-15.0.140-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+      "sha512": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00"
+    },
+    {
+      "name": "YACL",
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+      "sha512": "353169f85fa63e73ce9bdd0d4ddce54e3cbc4d71153a93c982f74c68fd93325986663f94fc2f2b10f4427e8b15a0485c608c5587b3840d933204b50ea4cb6d4c"
+    },
+    {
+      "name": "TCDCommons",
+      "filename": "tcdcommons-3.12.7+fabric-1.21.jar",
+      "url": "https://cdn.modrinth.com/data/Eldc1g37/versions/RvXDhazY/tcdcommons-3.12.7%2Bfabric-1.21.jar",
+      "sha512": "e4e40c93c477637974167bb38636b55d142519f3be9cd3d94d1e28f0d86fd1a05b9a34983013339f3f2e8015cceb2a76a731d3d532f81e7b6bae47eee6776576"
+    },
+    {
+      "name": "Chat Signing Hider",
+      "filename": "chatsigninghider-fabric-1.21.1-1.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/6KrNtW32/versions/57xSUw3y/chatsigninghider-fabric-1.21.1-1.0.5.jar",
+      "sha512": "75fe09d0967b0395ad2987b98ca9c8ca90ae34a771350b5c098768d9f3036a8f2a3088e6ac7ee3f490c6a4c5e833dbb0fc3f0ffb73e170d4ed5b17475914e798"
+    },
+    {
+      "name": "Continuity",
+      "filename": "continuity-3.0.0+1.21.jar",
+      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar",
+      "sha512": "3601ddb50f19142c087d32525bc0afcfb5f49a2e7477b6645a98ec191218739fdf3c6ac95cd298e826eb34fc533af43bb0e78c64e51292866ecabade4d14b13a"
+    },
+    {
+      "name": "Iris Shaders",
+      "filename": "iris-fabric-1.8.8+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+      "sha512": "2e6ba2ffa1e1a6799288245a7e0ac68ee8df1d41b98362189df58f535cae34fa9277801e4136633467341b7dae5be0e5c698011b480b3d91b66d3dd4f7567aa6"
+    }
+  ],
+  "optionalMods": [
+    {
+      "name": "Sodium",
+      "filename": "sodium-fabric-0.6.13+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "sha512": "13032e064c554fc8671573dadb07bc70e6ea2f68706c65c086c4feb1d2f664346a3414cbf9d1367b42b8d063a35e40f2f967ef9af31642e1f0093b852161fe91",
+      "enabledByDefault": true,
+      "description": "Ottimizzazione rendering"
+    },
+    {
+      "name": "Lithium",
+      "filename": "lithium-fabric-0.15.3+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XQJtuOTA/lithium-fabric-0.15.3%2Bmc1.21.1.jar",
+      "sha512": "8c576d519121b0c2521101d2209eccd85d560b097fcb847aa54c51cd0d3f3947676f01c8d99913f514487c8e0972a1cf5f3da0c9ef0ec9bacdf2baeb4eb7d1a7",
+      "enabledByDefault": true,
+      "description": "Ottimizzazione server-side e tick"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "filename": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/yHztKxR5/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
+      "sha512": "7117aa1b27dd1d463707d4089aa52cc09619f32744bc33363b3515b705d9ce5039fd69190092d119552b73db30ad365dffc29f84f0af505d580cc5593d88e075",
+      "enabledByDefault": true,
+      "description": "Ottimizzazione rendering immediata"
+    },
+    {
+      "name": "FerriteCore",
+      "filename": "ferritecore-7.0.3-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
+      "sha512": "3ad31620fac4ff44327dc7dedbe162b2d978f3f246dc16255a6e400ce9592a0d326fe36a626f3c1bf30a11f813093cbb4dcc107af039cff724d0cdf648541fdf",
+      "enabledByDefault": true,
+      "description": "Riduzione uso memoria RAM"
+    },
+    {
+      "name": "Entity Culling",
+      "filename": "entityculling-fabric-1.9.5-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/xcyXBGgI/entityculling-fabric-1.9.5-mc1.21.1.jar",
+      "sha512": "2a980756192abb8f7841e61017d77b16824752d349348976ba890779a8f556b4a0edb7b392bc5a29b29975342b6b18d8cfde888ae670532ce2418e5943f2009c",
+      "enabledByDefault": true,
+      "description": "Non renderizza entità fuori dalla visuale"
+    },
+    {
+      "name": "Zoomify",
+      "filename": "zoomify-2.15.2+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
+      "sha512": "ce8db36e77f089f091986b6e8bea1c33433bbcffc7a47fa18d04dea5ecd4910286943600a85b4773fdf4ed5405f52f3c0dc08fea8b1551d7725a26e1f6ef2879",
+      "enabledByDefault": true,
+      "description": "Zoom personalizzabile"
+    },
+    {
+      "name": "Visuality",
+      "filename": "visuality-0.7.7+1.21.jar",
+      "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar",
+      "sha512": "793f7164f9caf1b8e2b6b2f9f1327c40179b633217702bf79e16930cc5c548e44e6f0cac4628963fcc9e65cc9d63c4493678840242017c33be92a0e94c880f51",
+      "enabledByDefault": true,
+      "description": "Particelle estetiche aggiuntive"
+    },
+    {
+      "name": "Skin Layers 3D",
+      "filename": "skinlayers3d-fabric-1.10.2-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/TYPf51DB/skinlayers3d-fabric-1.10.2-mc1.21.1.jar",
+      "sha512": "404cc478291b663b40b9153fe561012b2a987f4f6ed2639c13c81c5184922c5f664d9f71694b96c2a330b4f81aeb6bd4c5700975e41f42f83f445f03dfcfd9d7",
+      "enabledByDefault": true,
+      "description": "Skin con layer 3D"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "filename": "xaerominimap-fabric-1.21.1-25.3.10.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/9kt7Yxig/xaerominimap-fabric-1.21.1-25.3.10.jar",
+      "sha512": "2cabff39e66fdbe0b7ba514573bc743c40bc827d6edecbe59941cfb693f105340d11226fe06b5f5fff95fc8d63f42445d92d0f31eb34ffde540422271ceb823e",
+      "enabledByDefault": true,
+      "description": "Minimappa in-game"
+    },
+    {
+      "name": "Xaero's World Map",
+      "filename": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+      "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e",
+      "enabledByDefault": true,
+      "description": "Mappa del mondo a schermo intero"
+    },
+    {
+      "name": "Better Stats",
+      "filename": "betterstats-3.13.9+fabric-1.21.jar",
+      "url": "https://cdn.modrinth.com/data/n6PXGAoM/versions/YDvjPyKn/betterstats-3.13.9%2Bfabric-1.21.jar",
+      "sha512": "30b4088c73181077358ec8f5ea0da6021711e408c9022df8c163171f52d48d3dff125886ead03929cd553f9d18aa8da16cb599e26da3e6ff1fb2e6828ddbff62",
+      "enabledByDefault": true,
+      "description": "Schermata statistiche migliorata"
+    },
+    {
+      "name": "Shulker Box Tooltip",
+      "filename": "shulkerboxtooltip-fabric-5.1.8+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/nGPvABlf/shulkerboxtooltip-fabric-5.1.8%2B1.21.1.jar",
+      "sha512": "b0b79aae60a2f88ac88ceb7bf114f7e1ce7701586da6b1acbd9d6f4e1d11d71dcc68e20e5f5cf5840832eabcb614f710a621bbe806eee9effeb9d778e122f1a4",
+      "enabledByDefault": true,
+      "description": "Anteprima contenuto shulker box"
+    },
+    {
+      "name": "Appleskin",
+      "filename": "appleskin-fabric-mc1.21-3.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21-3.0.6.jar",
+      "sha512": "accbb36b863bdeaaeb001f7552534f3bdf0f27556795cf8e813f9b32e7732450ec5133da5e0ec9b92dc22588c48ffb61577c375f596dc351f15c15ce6a6f4228",
+      "enabledByDefault": true,
+      "description": "Mostra valori fame e saturazione del cibo"
+    },
+    {
+      "name": "Tooltip Scroll",
+      "filename": "tooltip-scroll-1.5.1+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/wySVd6d8/versions/xIlfYF85/tooltip-scroll-1.5.1%2B1.21.1.jar",
+      "sha512": "f28b2d838b38f437745a85e944609b06822b513755604cc1a09310bf0790c50b298caca00b7ba143ca5679c676324f18cba1bbbe6de3a73ff75d55790df4a30d",
+      "enabledByDefault": true,
+      "description": "Permette di scrollare tooltip lunghi"
+    }
+  ],
+  "extraFiles": [
+    {
+      "path": "config/cobblemon/main.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/cobblemon/main.json",
+      "sha512": "7c8ad5e7901010f38088e49cd9812935573b9f08703f1ca6ec86bdf0157974c4001152b0e0c14984fe99e47b03bd8f827ac75c902c3fc5d870d824979aa128ac",
+      "updatable": true
+    },
+    {
+      "path": "config/mega_showdown/config.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/mega_showdown/config.json",
+      "sha512": "0e8441cc428f96928dd535eed89d72d0cd51a6ab95133948555cf81c8f532fc3e428468199cda35cdb57698cb694e02fe6b0fd4acb1d7dd885c5c106622b8b4c",
+      "updatable": true
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/ferritecore.mixin.properties",
+      "sha512": "a618a304abc3227cf57eaa4e51ff0a04b09b68b98eaa280254e2ee6e82e0943ed2c2926918b429fd92a982812bd5faa41de9e58fa46f5ba1764d6eb237f1e0cb",
+      "updatable": true
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/immediatelyfast.json",
+      "sha512": "b2e4c22100d3990d8d887a7b10459f2fe380adc691e3fa5c29d4afe71092430054a7fdef463c1615ced5ea5849deddce32bda213f572692edc13722b8a215a90",
+      "updatable": true
+    },
+    {
+      "path": "config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/entityculling.json",
+      "sha512": "cb50796f7fe3db292eaf9a11a96f6e940435264b09a80406fb5c0be71d9b4bd077e66e4073420179b9be1f2dd3ab8da9df51299dc41afb3c8e11ed7bbd82e158",
+      "updatable": true
+    },
+    {
+      "path": "config/continuity.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/continuity.json",
+      "sha512": "7fd46c3ffde96e45dabfced020f477a21d9b0f0fd9fce11caa11b07d4505eaaa5fb27157abea54bae0b2a2b591a327cefe95c28c358f01928d2627a0d5e33ab4",
+      "updatable": false
+    },
+    {
+      "path": "config/accessories.json5",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/accessories.json5",
+      "sha512": "8d4af7c869f23bce280bcdd22f6fa065dccbd2cd95e818d3ff4f3dfd8f4f6c5f8ced462a0b8bb08f54e8d9b65e160ddc18a7a83c705ead45e8a3b21768299d87",
+      "updatable": false
+    },
+    {
+      "path": "config/appleskin.json5",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/appleskin.json5",
+      "sha512": "41bad83eef0be6645a16914a3403b67a59d4c80935c5194d3db04910f92754ce5d2676b47db944f0326ef3c492598d6f34e81e0d259c5b0bf4e2075c3ee86ded",
+      "updatable": false
+    },
+    {
+      "path": "config/skinlayers.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/skinlayers.json",
+      "sha512": "0ccb7e655e79f5af02e7c7a33b342906f51caaa63bf33bb3e7aad265cbefa78cd53086b423d1b68ed27fb5dcf3c7abaec90197debf137fea8c36af866eabfb60",
+      "updatable": false
+    },
+    {
+      "path": "config/visuality.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/visuality.json",
+      "sha512": "d46d67c491190abdaa925477d52f7c5e8c69d69becaba70bc9e6d3cbf2e359901d4794b11bbbe43d5a6e24ab672abf9f2f18bdc9fb0e86b1b636cc5114d498a6",
+      "updatable": false
+    },
+    {
+      "path": "config/tooltipscroll.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/tooltipscroll.json",
+      "sha512": "2f6a127b5e9ce7a04aad6fd93cd2f79901857cee8598d15623ab96747f8fb357baaed80438f8469f1a982281fd5ad2f01a1f118333562d9af6b06cdad0b76f53",
+      "updatable": false
+    },
+    {
+      "path": "config/trender.json",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/trender.json",
+      "sha512": "cea3e69c7848e74fbacd78f0c663c0ce8c03e9a9725c9ff5b9850325c59552fdbf9624a1c89c606a3de365d04199c6a01e6e1ce4052a050836d935d6f958cf61",
+      "updatable": false
+    },
+    {
+      "path": "config/xaerohud.txt",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/xaerohud.txt",
+      "sha512": "97f01c7a3fa251db33a77467d4f167d7fd2935a13113e96243c6e331a215f1f9ceb1baacac29876a784f12cbb345e8be58b40a3632513c85375819fe2a21400e",
+      "updatable": false
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/fabric/indigo-renderer.properties",
+      "sha512": "70b7e844a8f4a2ecc244e06f9c530aaeb7a33a25dfc120084546721197ec6b0a46a54d3e8d7b26aadadaf52393b4a2ee6fe9a2aec8025d49da5d20061245ff87",
+      "updatable": false
+    },
+    {
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/pro/options.txt",
+      "sha512": "fec0ee2a593bd9791d28e98b22fb49c05e023df19c9ae2a99213cbf7a31d4c7847ed932be37fc40c76cc4291ab23d16927d7baff7f26cb8313e27b43bd9a94ed",
+      "updatable": false
+    },
+    {
+      "path": "config/iris.properties",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/pro/config/iris.properties",
+      "sha512": "a7b6e21f82451a90b31f693103b0b882226b1b3529b79d45faeb5b8f69dd36191ac33e3cb76c5e2d504d5f33e29894ae5715659a1164dad0c7c94f4adf7dc3ca",
+      "updatable": false
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip",
+      "sha512": "840149dd8aff5d5d06d0d5a4ea83d4ea7f72eab3cb2b02de513c1f3eaa6e4627f68d9c0915b86fa37edad73cafd4648f156f373da52810cd34c67d797e0f6aef",
+      "updatable": true
+    },
+    {
+      "path": "servers.dat",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/servers.dat",
+      "sha512": "ae37e70160b6a7368e9f4c711f6fb19b17afb770ff746d6ac3d13af7dec6c1260e1faada91ed6906174ef4e6d2557c3488186383cb796f73c98fb9220d52ce88",
+      "updatable": false
+    }
+  ]
+}
