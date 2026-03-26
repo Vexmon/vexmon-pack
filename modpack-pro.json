@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.5",
+  "modpackVersion": "1.0.6",
   "mods": [
     {
       "name": "Cobblemon",
@@ -78,6 +78,36 @@
       "filename": "iris-fabric-1.8.8+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
       "sha512": "2e6ba2ffa1e1a6799288245a7e0ac68ee8df1d41b98362189df58f535cae34fa9277801e4136633467341b7dae5be0e5c698011b480b3d91b66d3dd4f7567aa6"
+    },
+    {
+      "name": "Cobblemon Pokenav",
+      "filename": "cobblenav-fabric-2.2.5.jar",
+      "url": "https://cdn.modrinth.com/data/bI8Nt3uA/versions/VjtSuwwW/cobblenav-fabric-2.2.5.jar",
+      "sha512": "1679a4bd6769b05c68f2d0257eaf663ec505beeb2505461fd4ce29eba844993bdc5452e2cb07ad4d8cd98cb7460015196723a272baf3039641fb205ad1eedfeb"
+    },
+    {
+      "name": "Cobblemon Battle Extras",
+      "filename": "cobblemon-battle-extras-fabric-1.11.38.jar",
+      "url": "https://cdn.modrinth.com/data/2iY8VFqL/versions/fHJDWjFO/cobblemon-battle-extras-fabric-1.11.38.jar",
+      "sha512": "49db5e5a36adb5fe3e3932530499af3c7c720b082758063f1da50fa7fb90899b38a8ad674dbb3656ea414feb96a304d2e0fe23655dfafc30247315233b35547c"
+    },
+    {
+      "name": "Catch Indicator",
+      "filename": "catchindicator-fabric-1.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/tpTcu2PM/versions/rorykRYS/catchindicator-fabric-1.4.2.jar",
+      "sha512": "494805d20a92624573cf87fec64685a369533eeb57e2a1c1b641394b3d68a4d5aae393df31579c08e78b925996ebf98145a1180be6a86f9ddcd451e0a9a3e1a4"
+    },
+    {
+      "name": "Cobblemon Catch Rate Display",
+      "filename": "catchrate-display-fabric-2.8.4.jar",
+      "url": "https://cdn.modrinth.com/data/vADO40xp/versions/DaFMk2UO/catchrate-display-fabric-2.8.4.jar",
+      "sha512": "e0754f66dcee63c19a4a8867e7ca9c38f279440a21586a92523483e93db82817e77973ce1984c95cdae7132ab1393c0c4731826205866d9991963e803f06c57b"
+    },
+    {
+      "name": "Cobblemon Move Dex",
+      "filename": "CobblemonMoveDex-1.2.jar",
+      "url": "https://cdn.modrinth.com/data/tWd2nw8o/versions/P6scgczb/CobblemonMoveDex-1.2.jar",
+      "sha512": "f32b065599b7ab9429ab3c83ec79b95bc3f5d0e5dd999d01065863c69c39519e0a0e6b8e92a1349a55391e2d3d67c02a232d9c5774f5a13cc21d94603511ca6d"
     }
   ],
   "optionalMods": [
@@ -206,6 +236,24 @@
       "enabledByDefault": true,
       "description": "Permette di scrollare tooltip lunghi",
       "category": "Utility"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "filename": "jei-1.21.1-fabric-19.27.0.340.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/TvqzuFwN/jei-1.21.1-fabric-19.27.0.340.jar",
+      "sha512": "04d4067931010578b55aee55b1e38f7ea2ea3ce8d258ae5d9ece7facfcfcb41349a457ca8bd2ca502577616b84b1c14dbd00b2985ffc6cde5c3d1ec2dd214a04",
+      "enabledByDefault": true,
+      "description": "Visualizza ricette e utilizzi degli oggetti",
+      "category": "Utility"
+    },
+    {
+      "name": "Simple Voice Chat",
+      "filename": "voicechat-fabric-1.21.1-2.6.12.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/a5dpsZGN/voicechat-fabric-1.21.1-2.6.12.jar",
+      "sha512": "17713aee5f42a73620b6f9b8eee4e665d7c1449f39b24db37d7dad6fe024c166345eae24b98b81cf9d56463461d39cd15be8efcbfc528208d052897ad6719e6c",
+      "enabledByDefault": true,
+      "description": "Chat vocale di prossimità in-game",
+      "category": "Social"
     }
   ],
   "extraFiles": [
