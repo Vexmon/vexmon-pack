@@ -96,12 +96,6 @@
       "filename": "catchrate-display-fabric-2.8.4.jar",
       "url": "https://cdn.modrinth.com/data/vADO40xp/versions/DaFMk2UO/catchrate-display-fabric-2.8.4.jar",
       "sha512": "e0754f66dcee63c19a4a8867e7ca9c38f279440a21586a92523483e93db82817e77973ce1984c95cdae7132ab1393c0c4731826205866d9991963e803f06c57b"
-    },
-    {
-      "name": "Cobblemon Move Dex",
-      "filename": "CobblemonMoveDex-1.2.jar",
-      "url": "https://cdn.modrinth.com/data/tWd2nw8o/versions/P6scgczb/CobblemonMoveDex-1.2.jar",
-      "sha512": "f32b065599b7ab9429ab3c83ec79b95bc3f5d0e5dd999d01065863c69c39519e0a0e6b8e92a1349a55391e2d3d67c02a232d9c5774f5a13cc21d94603511ca6d"
     }
   ],
   "optionalMods": [
