@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.7",
+  "modpackVersion": "1.0.8",
   "mods": [
     {
       "name": "Cobblemon",
@@ -320,7 +320,7 @@
     {
       "path": "config/xaerohud.txt",
       "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/xaerohud.txt",
-      "sha512": "97f01c7a3fa251db33a77467d4f167d7fd2935a13113e96243c6e331a215f1f9ceb1baacac29876a784f12cbb345e8be58b40a3632513c85375819fe2a21400e",
+      "sha512": "4413c1520b3d0ed97d4462eb9cedcb855b4662c61dba72b66be3536801f15991ff5a83d8eb0b139fa2633fd7707d5ab33dc953258bbda80f60dc6067803b6955",
       "updatable": false
     },
     {
