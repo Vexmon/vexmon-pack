@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.8",
+  "modpackVersion": "1.0.9",
   "mods": [
     {
       "name": "Cobblemon",
@@ -96,6 +96,12 @@
       "filename": "catchrate-display-fabric-2.8.4.jar",
       "url": "https://cdn.modrinth.com/data/vADO40xp/versions/DaFMk2UO/catchrate-display-fabric-2.8.4.jar",
       "sha512": "e0754f66dcee63c19a4a8867e7ca9c38f279440a21586a92523483e93db82817e77973ce1984c95cdae7132ab1393c0c4731826205866d9991963e803f06c57b"
+    },
+    {
+      "name": "Vexmon Aprijuice Fix",
+      "filename": "vexmon-aprijuice-fix-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/mods/vexmon-aprijuice-fix-1.0.0.jar",
+      "sha512": "c1736a1e12a96004e7e799f6e2816644c398aad9884d28212b5bb6f920e9ec7644cf1e7526716e7e72114692746a43ce0eca5d81a3847b95b6f20258791100ee"
     }
   ],
   "optionalMods": [
@@ -173,18 +179,18 @@
     },
     {
       "name": "Xaero's Minimap",
-      "filename": "xaerominimap-fabric-1.21.1-25.3.10.jar",
-      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/9kt7Yxig/xaerominimap-fabric-1.21.1-25.3.10.jar",
-      "sha512": "2cabff39e66fdbe0b7ba514573bc743c40bc827d6edecbe59941cfb693f105340d11226fe06b5f5fff95fc8d63f42445d92d0f31eb34ffde540422271ceb823e",
+      "filename": "xaerominimap-fabric-1.21.1-25.3.12.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Y6UMYlPY/xaerominimap-fabric-1.21.1-25.3.12.jar",
+      "sha512": "4415f946e23c2dd3cf60ba2821b494666cf8395727a1013f9e7d92ff811a07ae75cf15a133742898f7b488f83e62c33bf0446906e8379f4a2c9d68980c4f8620",
       "enabledByDefault": true,
       "description": "Minimappa in-game",
       "category": "Mappe"
     },
     {
       "name": "Xaero's World Map",
-      "filename": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
-      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
-      "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e",
+      "filename": "xaeroworldmap-fabric-1.21.1-1.40.16.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HvYNIyXh/xaeroworldmap-fabric-1.21.1-1.40.16.jar",
+      "sha512": "0bba1582ccb600ffd10fdc05bb5ca55800be667a1bc413216f217d2fdbce232b61e693684e2b41ab965c54c444e8d3a8cb64ed97dd5d832fc1e5c475913674e5",
       "enabledByDefault": true,
       "description": "Mappa del mondo a schermo intero",
       "category": "Mappe"
