@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.10",
+  "modpackVersion": "1.0.11",
   "mods": [
     {
       "name": "Cobblemon",
@@ -108,6 +108,18 @@
       "filename": "vexmon-aprijuice-fix-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/mods/vexmon-aprijuice-fix-1.0.0.jar",
       "sha512": "c1736a1e12a96004e7e799f6e2816644c398aad9884d28212b5bb6f920e9ec7644cf1e7526716e7e72114692746a43ce0eca5d81a3847b95b6f20258791100ee"
+    },
+    {
+      "name": "Mod Menu",
+      "filename": "modmenu-11.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar",
+      "sha512": "45ea8f7e0749bc0eb98900f94486e323f153b199617fa43977b46472e4196ee5a6739f41a1e7f68e270f84a367df5f7f53c2a1f46145ad7d349ede4297895396"
+    },
+    {
+      "name": "Text Placeholder API",
+      "filename": "placeholder-api-2.4.2+1.21.jar",
+      "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
+      "sha512": "fc13d3a5c048dbaab86318edaf8b6c6b46ef9f1d367e8f063d19f5a9b0da66c5ae419d92c8c4608edc89a01eb44d91ffcf017fea73f39b222cbd85e82f70a233"
     }
   ],
   "optionalMods": [
@@ -342,9 +354,15 @@
       "updatable": false
     },
     {
+      "path": "resourcepacks/CqsAnimation.zip",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/resourcepacks/CqsAnimation.zip",
+      "sha512": "e7a30283880bd55ac36787ed876f0184b1afc4d96e86d701d050830f51144a18cd36c5d7a05ebe5ce7957140d22e6b8c9077c0d263e35e4c1f98a9724e36677f",
+      "updatable": true
+    },
+    {
       "path": "options.txt",
       "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/light/options.txt",
-      "sha512": "166801ea0b3b7a3e32b22a84eca344c12089484dea8ef840b15fd6dd05064ff20378740dbf9fd6568f9c709d9323a22d81f3ac184ab1bab54fc78a6f13ccfeb2",
+      "sha512": "2300eb579b30b0826938fad69c0145a16293a1a8e21ee67f00e61f6ec7360aa473eec535aba1154174fd50c84323dbc7bf07082a84904ff30084132f7757bb32",
       "updatable": false
     },
     {

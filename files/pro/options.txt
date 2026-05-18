@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["fabric","cobblemon:regionbiasforms","cobblemon:gyaradosjump"]
+resourcePacks:["fabric","cobblemon:regionbiasforms","cobblemon:gyaradosjump","file/CqsAnimation.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
