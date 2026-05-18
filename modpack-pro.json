@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.11",
+  "modpackVersion": "1.0.12",
   "mods": [
     {
       "name": "Cobblemon",
@@ -360,15 +360,9 @@
       "updatable": false
     },
     {
-      "path": "resourcepacks/CqsAnimation.zip",
-      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/resourcepacks/CqsAnimation.zip",
-      "sha512": "e7a30283880bd55ac36787ed876f0184b1afc4d96e86d701d050830f51144a18cd36c5d7a05ebe5ce7957140d22e6b8c9077c0d263e35e4c1f98a9724e36677f",
-      "updatable": true
-    },
-    {
       "path": "options.txt",
       "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/pro/options.txt",
-      "sha512": "366d8fa053f200131ad0705bd67d7b2437434f92d4857a7d129ba2c968b408d7c97e8fe96772393e3ddd8c6af15f0f6db0555ebda869f4472921c75eaaa9be97",
+      "sha512": "a281a3f59374ee2410f787f828f24dbe8aab160e03f7c224b9dbde44d3ac58248d655bcfbae29fa80fe77cb5a55d2d401b3659ed668d160895489e028548e075",
       "updatable": false
     },
     {
