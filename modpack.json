@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.12",
+  "modpackVersion": "1.0.13",
   "mods": [
     {
       "name": "Cobblemon",
@@ -120,6 +120,18 @@
       "filename": "placeholder-api-2.4.2+1.21.jar",
       "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
       "sha512": "fc13d3a5c048dbaab86318edaf8b6c6b46ef9f1d367e8f063d19f5a9b0da66c5ae419d92c8c4608edc89a01eb44d91ffcf017fea73f39b222cbd85e82f70a233"
+    },
+    {
+      "name": "Cobblemon Journey Mounts",
+      "filename": "cobblemon-journey-mounts-1.7.2.jar",
+      "url": "https://cdn.modrinth.com/data/Vn5WCYr6/versions/RKZyNI1R/cobblemon-journey-mounts-1.7.2.jar",
+      "sha512": "cced2b3ef034e3f57c3e4271b64f5fd776ac7b56329b400018d7ca9b99c5e44c11a76acf2283c2bb3bb1eef40a9be9fb9eb360de0f7e48842689c69fa107005b"
+    },
+    {
+      "name": "Ranked Hub",
+      "filename": "ranked_hub-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/mods/ranked_hub-1.0.0.jar",
+      "sha512": "725c60e3ea16aa5a6030e93b93a23bfcbf0e6110c437b1d7a7350aa4a8cf4d33436661a7b0195dffe73ac65ac53d33eca298bbe5cb3a6caacf0df41bb5bdfe00"
     }
   ],
   "optionalMods": [
@@ -284,7 +296,7 @@
     {
       "path": "config/ferritecore.mixin.properties",
       "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/ferritecore.mixin.properties",
-      "sha512": "a618a304abc3227cf57eaa4e51ff0a04b09b68b98eaa280254e2ee6e82e0943ed2c2926918b429fd92a982812bd5faa41de9e58fa46f5ba1764d6eb237f1e0cb",
+      "sha512": "dc48740f9b0552a91172d8fd5465a9c3497502c6c0dd08379009c4858a3709486831dcfe8bdde2543113cee58b79a8bc611bbecd744c7ae8b12e9ee478331b9a",
       "updatable": true
     },
     {
@@ -350,13 +362,13 @@
     {
       "path": "config/fabric/indigo-renderer.properties",
       "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/config/fabric/indigo-renderer.properties",
-      "sha512": "70b7e844a8f4a2ecc244e06f9c530aaeb7a33a25dfc120084546721197ec6b0a46a54d3e8d7b26aadadaf52393b4a2ee6fe9a2aec8025d49da5d20061245ff87",
+      "sha512": "852086cb022f18b34646a16d98539a50646f3de7ec10b7b8562273dd2b3a54f2280ce1cf8df0881dbe72478a3992785719c688d894521577278d42e21189d5b4",
       "updatable": false
     },
     {
       "path": "options.txt",
       "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/normal/options.txt",
-      "sha512": "55dddc05ce031c598ac0474b734d457f3d329ac330872f7c1c0551fbc06e0f16171a408c8dfd22d309f13b83a75a316db379e740c4a16695834d084bce21a9da",
+      "sha512": "02d28bd1287cc5b59dfac718b88abc9a88aa2a2967e73dc5b441c9197c716e7a0ac6c313431698b50005c9a1d39fb7f1d9debf77e5f80ad01c37bf851441c3b4",
       "updatable": false
     },
     {
