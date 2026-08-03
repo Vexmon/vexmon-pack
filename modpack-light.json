@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.13",
+  "modpackVersion": "1.0.14",
   "mods": [
     {
       "name": "Cobblemon",
@@ -131,7 +131,7 @@
       "name": "Ranked Hub",
       "filename": "ranked_hub-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Vexmon/vexmon-pack/main/files/mods/ranked_hub-1.0.0.jar",
-      "sha512": "725c60e3ea16aa5a6030e93b93a23bfcbf0e6110c437b1d7a7350aa4a8cf4d33436661a7b0195dffe73ac65ac53d33eca298bbe5cb3a6caacf0df41bb5bdfe00"
+      "sha512": "4bcaf626d8a1c2df9d3a4f43866311b7149567583c66c701fce37a5ee2fc864ca662a6102fef33f1f26e26c00e753b5d54a3b4c0ccc2c1f7e26fe327b0dbbf18"
     }
   ],
   "optionalMods": [
